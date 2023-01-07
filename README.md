@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="150"/>
   <div id="badges">
   <a href="[your-linkedin-URL](https://t.me/a_rtem_m)">
     <img src="https://img.shields.io/badge/-Telegram-blue" alt="LinkedIn Badge"/>
@@ -13,10 +13,10 @@
 </h1>
 </div>
 <div align="center">
- <img src="https://media.giphy.com/media/bAQH7WXKqtIBrPs7sR/giphy.gif" width="600" height="300"/>
+ <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" width="600" height="300"/>
 </div>
 
- ### :woman_technologist: About Me :
+ ### :man_technologist: About Me :
  I am a Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Saint-Petersburg.
  - :telescope: I’m student of Bonch-Bruevich St. Petersburg State University of Telecommunications (SpbSut)
  ...
