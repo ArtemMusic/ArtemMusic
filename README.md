@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="120"/>
+  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="100"/>
   <div id="badges">
   <a href="[your-linkedin-URL](https://t.me/a_rtem_m)">
     <img src="https://img.shields.io/badge/-Telegram-blue" alt="LinkedIn Badge"/>
@@ -47,7 +47,7 @@
   
 ---
 
-### Social:
+### ✍️ Social:
  
 Gmail: muzychukartem.music@gmail.com
 Tg: https://t.me/a_rtem_m
