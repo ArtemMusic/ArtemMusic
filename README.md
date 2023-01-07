@@ -38,8 +38,7 @@
    <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Mysql" alt="Mysql" width="40" height="40"/>&nbsp;   
    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Mysql" alt="Mysql" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/composer/composer-original.svg" title="Mysql" alt="Mysql" width="40" height="40"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="Mysql" alt="Mysql" width="40" height="40"/>&nbsp;
-<!--     <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" title="Mysql" alt="Mysql" width="40" height="40"/>&nbsp; -->
+      <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="Mysql" alt="Mysql" width="40" height="40"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" title="Mysql" alt="Mysql" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" title="Mysql" alt="Mysql" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Mysql" alt="Mysql" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Mysql" alt="Mysql" width="40" height="40"/>&nbsp;
