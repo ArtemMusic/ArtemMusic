@@ -22,11 +22,11 @@
   
  - 😎: Developed websites using modern technologies. Improved the teamwork process in the team by introducing a modern framework and design/development patterns.
 
- — ☀️: Implemented successful development ideas: apply patterns, software engineering, Git Hub to merge different parts of the application.
+ - ☀️: Implemented successful development ideas: apply patterns, software engineering, Git Hub to merge different parts of the application.
 
  - 🦾: Applied and implemented ci/cd tools to optimize the deployment of a high-load system.
 
- — 🏡: Developed a smart home system with a telegram bot.
+ - 🏡: Developed a smart home system with a telegram bot.
 
  - ✍️: Wrote my own database in С++.
 
