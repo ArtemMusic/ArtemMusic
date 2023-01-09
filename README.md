@@ -18,8 +18,20 @@
 
  ### :man_technologist: About Me :
  I am a Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Saint-Petersburg.
- - :telescope: I’m student of Bonch-Bruevich St. Petersburg State University of Telecommunications (SpbSut)
- ...
+ - 👨‍🎓: Student of Bonch-Bruevich St. Petersburg State University of Telecommunications (SpbSut)
+  
+ - 😎: Developed websites using modern technologies. Improved the teamwork process in the team by introducing a modern framework and design/development patterns.
+
+ — ☀️: Implemented successful development ideas: apply patterns, software engineering, Git Hub to merge different parts of the application.
+
+ - 🦾: Applied and implemented ci/cd tools to optimize the deployment of a high-load system.
+
+ — 🏡: Developed a smart home system with a telegram bot.
+
+ - ✍️: Wrote my own database in С++.
+
+ - 🧐: Analyzed and optimized more than 20,000 lines of code.
+ 
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
