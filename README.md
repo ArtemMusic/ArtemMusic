@@ -65,9 +65,9 @@ Tg: https://t.me/a_rtem_m
 VK: https://vk.com/artem_mk
 Portfolio: https://artemmusic.github.io/portfolio/
 
----
+<!-- ---
 
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=artemmusic&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=artemmusic&theme=dark&background=000000)](https://git.io/streak-stats) -->
