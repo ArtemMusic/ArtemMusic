@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="100"/>
   <div id="badges">
-  <a href="[your-linkedin-URL](https://t.me/a_rtem_m)">
+  <a href="https://t.me/a_rtem_m">
     <img src="https://img.shields.io/badge/-Telegram-blue" alt="LinkedIn Badge"/>
   </a>
    <a href="https://artemmusic.github.io/portfolio/">
@@ -17,20 +17,20 @@
 </div>
 
  ### :man_technologist: About Me :
- I am a Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Saint-Petersburg.
- - 👨‍🎓: Student of Bonch-Bruevich St. Petersburg State University of Telecommunications (SpbSut)
-  
- - 😎: Developed websites using modern technologies. Improved the teamwork process in the team by introducing a modern framework and design/development patterns.
+ 
+ I'm a FullStack Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Saint-Petersburg.
+ 
+ - 👨‍🎓: Student of Bonch-Bruevich St. Petersburg State University of Telecommunications. Software engineer.
+   
+ -  ⚙: I have significant experience in developing applications of various levels of complexity.
 
- - ☀️: Implemented successful development ideas: apply patterns, software engineering, Git Hub to merge different parts of the application.
-
- - 🦾: Applied and implemented ci/cd tools to optimize the deployment of a high-load system.
-
- - 🏡: Developed a smart home system with a telegram bot.
-
- - ✍️: Wrote my own database in С++.
-
- - 🧐: Analyzed and optimized more than 20,000 lines of code.
+ - 📒: Successfully implemented own projects.
+   
+ - 🧠: Every day I try to improve my skills in both development and management.
+   
+ - 👪: I have experience of working in a team both as a manager and as a worker.
+   
+ **Find out more in my portfolio** ( https://artemmusic.github.io/portfolio/ )
  
 ---
 
@@ -40,6 +40,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg" title="laravel" alt="Mysql" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="Mysql" alt="Mysql" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSql" alt="PostgreSql" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="Mysql" alt="Mysql" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
@@ -54,16 +55,15 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" title="Mysql" alt="Mysql" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Mysql" alt="Mysql" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Mysql" alt="Mysql" width="40" height="40"/>&nbsp;
+ 
 </div>
   
 ---
 
 ### ✍️ Social:
- 
-Gmail: muzychukartem.music@gmail.com
+
+WebSite: https://artemmusic.github.io/portfolio/
 Tg: https://t.me/a_rtem_m
-VK: https://vk.com/artem_mk
-Portfolio: https://artemmusic.github.io/portfolio/
 
 <!-- ---
 
