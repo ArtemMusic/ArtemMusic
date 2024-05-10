@@ -18,11 +18,7 @@
 
  ### :man_technologist: About Me :
  
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> FullStack Web Developer from Saint-Petersburg.
- 
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Student of Bonch-Bruevich St. Petersburg State University of Telecommunications. "Software engineer".
-   
- **Find out more in my portfolio** ( https://artemmusic.github.io/portfolio/ )
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> FullStack Web Developer from Saint-Petersburg and student of Bonch-Bruevich State University majoring in software engineering.
  
 ---
 
@@ -46,14 +42,14 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" title="Mysql" alt="Mysql" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Mysql" alt="Mysql" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Mysql" alt="Mysql" width="40" height="40"/>&nbsp;
- 
 </div>
   
 ---
 
 ### ✍️ Social:
 
-WebSite: https://artemmusic.github.io/portfolio/
+WebSite-portfolio: https://artemmusic.github.io/portfolio/
+<br/>
 <br/>
 Tg: https://t.me/arrtemmuz
 
