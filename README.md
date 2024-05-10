@@ -22,14 +22,6 @@
  
  - 👨‍🎓: Student of Bonch-Bruevich St. Petersburg State University of Telecommunications. Software engineer.
    
- -  ⚙: I have significant experience in developing applications of various levels of complexity.
-
- - 📒: Successfully implemented own projects.
-   
- - 🧠: Every day I try to improve my skills in both development and management.
-   
- - 👪: I have experience of working in a team both as a manager and as a worker.
-   
  **Find out more in my portfolio** ( https://artemmusic.github.io/portfolio/ )
  
 ---
