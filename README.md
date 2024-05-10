@@ -18,9 +18,9 @@
 
  ### :man_technologist: About Me :
  
- I'm a FullStack Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Saint-Petersburg.
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> FullStack Web Developer from Saint-Petersburg.
  
-👨‍🎓: Student of Bonch-Bruevich St. Petersburg State University of Telecommunications. "Software engineer".
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Student of Bonch-Bruevich St. Petersburg State University of Telecommunications. "Software engineer".
    
  **Find out more in my portfolio** ( https://artemmusic.github.io/portfolio/ )
  
