@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="100"/>
   <div id="badges">
-  <a href="https://t.me/arrtemmuz">
+  <a href="https://t.me/arrtemmuzic">
     <img src="https://img.shields.io/badge/-Telegram-blue" alt="LinkedIn Badge"/>
   </a>
    <a href="https://artemmusic.github.io/portfolio/">
@@ -25,8 +25,6 @@
 
 ### ✍️ Social:
 
-<br/>
-<br/>
 Tg: https://t.me/artemmuzic
 
 <!-- ---
