@@ -22,40 +22,6 @@
  
 ---
 
-### :hammer_and_wrench: Stack :
-
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python-original.svg" alt="python-original.svg" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" title="fastapi-original.svg" alt="fastapi-original.svg" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="django-plain.svg" alt="django-plain.svg" width="40" height="40"/>&nbsp;
-  <br/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript-original.svg" alt="javascript-original.svg" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="vuejs-original.svg" alt="vuejs-original.svg" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" title="jquery-original.svg" alt="jquery-original.svg" width="40" height="40"/>&nbsp;
-  <br/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="php-original.svg" alt="php-original.svg" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" title="laravel-original.svg" alt="laravel-original.svg" width="40" height="40"/>&nbsp;
-  <br/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="html5-original-wordmark.svg" alt="html5-original-wordmark.svg" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="css3-plain-wordmark.svg" alt="css3-plain-wordmark.svg" width="40" height="40"/>&nbsp;
-  <br/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="mysql-original-wordmark.svg" alt="mysql-original-wordmark.svg" width="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="postgresql-original.svg" alt="postgresql-original.svg" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="sqlite-original.svg" alt="sqlite-original.svg" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original.svg" title="sqlalchemy-original.svg" alt="sqlalchemy-original.svg" width="40"/>&nbsp;
-  <br/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux-original.svg" alt="linux-original.svg" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="docker-original.svg" alt="docker-original.svg" width="40" height="40"/>&nbsp; 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git-original.svg" alt="git-original.svg" width="40" height="40"/>&nbsp;
-  <br/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="nginx-original.svg" alt="nginx-original.svg" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original-wordmark.svg" title="apache-original-wordmark.svg" alt="apache-original-wordmark.svg" width="40" height="40"/>&nbsp;
-  <br/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-original.svg" title="photoshop-original.svg" alt="photoshop-original.svg" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma-original.svg" alt="figma-original.svg" width="40" height="40"/>&nbsp;
-</div>
-  
----
 
 ### ✍️ Social:
 
