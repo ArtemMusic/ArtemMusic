@@ -18,17 +18,16 @@
 
  ### :man_technologist: About Me :
  
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> FullStack Web Developer from Saint-Petersburg and student of Bonch-Bruevich State University majoring in software engineering.
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Developer from Saint-Petersburg and student of Bonch-Bruevich State University majoring in software engineering.
  
 ---
 
 
 ### ✍️ Social:
 
-WebSite-portfolio: https://artemmusic.github.io/portfolio/
 <br/>
 <br/>
-Tg: https://t.me/arrtemmuz
+Tg: https://t.me/artemmuzic
 
 <!-- ---
 
